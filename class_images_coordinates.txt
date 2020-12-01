@@ -1,0 +1,760 @@
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\004e8f8aa9860565.jpg 80,273,352,515,0 441,260,529,462,0 473,305,672,527,0 701,44,763,105,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\006ac0b3d61f1ee9.jpg 180,368,686,893,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\006b4e6f706e3119.jpg 317,199,702,604,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\007ec56b6529e036.jpg 338,206,758,620,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\00b7cee6cbe6af50.jpg 392,293,408,304,0 407,304,469,344,0 906,443,1022,599,0 933,445,979,487,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\00cc1c601b23f73d.jpg 351,258,668,584,0 401,34,500,139,0 600,343,881,659,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\00db614fcd5d77ea.jpg 352,438,456,542,0 0,0,1023,677,0 497,473,597,576,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\016491de148352b2.jpg 385,264,692,642,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\02b3144549d787e6.jpg 445,267,573,424,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\02ce85bb7daf3e0c.jpg 0,191,220,476,0 46,347,1023,677,0 234,3,589,145,0 515,0,589,14,0 695,51,1023,257,0 708,180,737,202,0 710,0,790,18,0 840,0,1023,61,0 860,199,896,225,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\02d39303ce22fcc2.jpg 218,186,368,350,0 0,0,16,44,0 0,154,17,215,0 0,215,20,288,0 0,35,66,158,0 19,0,82,40,0 40,71,851,563,0 752,237,924,409,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\041eff14c5ccb94a.jpg 216,595,376,715,0 217,683,371,862,0 313,740,497,923,0 315,169,483,340,0 425,32,592,209,0 444,656,604,798,0 465,201,646,336,0 470,180,600,214,0 483,561,593,688,0 540,761,724,964,0 724,672,886,833,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\0454fc91aa2da0d1.jpg 241,515,444,718,0 0,0,939,866,0 434,447,634,656,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\057680511b3aa875.jpg 0,606,298,957,0 210,556,741,1023,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\05aa7c4e2b949291.jpg 69,166,245,446,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\091edb8eb47e1375.jpg 410,390,764,682,0 586,353,697,465,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\096322ca16f1dcee.jpg 0,591,11,615,0 0,532,19,569,0 0,482,42,518,0 0,517,46,558,0 2,565,17,595,0 18,465,59,493,0 20,584,157,647,0 38,506,76,541,0 39,485,69,497,0 44,460,60,469,0 46,461,64,487,0 48,559,77,581,0 59,454,97,487,0 62,551,96,565,0 71,603,119,644,0 72,563,116,591,0 94,552,131,586,0 101,474,117,497,0 116,506,136,527,0 126,480,152,499,0 135,463,153,488,0 135,491,162,522,0 144,529,255,611,0 145,466,163,488,0 192,617,233,657,0 202,605,237,627,0 218,625,261,665,0 237,609,276,641,0 259,616,306,658,0 280,588,318,620,0 296,576,327,594,0 320,584,353,619,0 326,574,344,583,0 329,568,347,583,0 347,574,376,611,0 418,545,517,599,0 472,507,497,540,0 477,490,508,516,0 486,524,511,543,0 498,508,532,522,0 502,506,529,538,0 508,574,547,602,0 528,561,560,593,0 587,513,676,548,0 608,581,642,611,0 650,594,688,627,0 659,586,682,595,0 688,595,721,625,0 688,509,722,538,0 688,581,723,606,0 691,520,727,554,0 725,511,757,548,0 744,523,780,556,0 803,554,840,589,0 803,538,844,569,0 838,560,878,590,0 844,538,877,560,0 867,548,899,586,0 933,570,954,588,0 935,533,1023,611,0 948,579,984,614,0 953,661,991,682,0 960,563,993,579,0 981,542,1007,567,0 981,578,1009,611,0 995,656,1023,682,0 997,569,1023,602,0 998,545,1019,572,0 998,535,1023,548,0 1011,611,1023,641,0 1015,624,1023,656,0 1017,551,1023,573,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\0a664427bdf3ca95.jpg 12,547,449,955,0 147,354,474,622,0 453,473,787,856,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\0a9816fe65e157c8.jpg 0,183,435,672,0 0,0,767,693,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\0aa825c0dc7d87c2.jpg 51,428,532,888,0 70,144,443,471,0 157,800,684,1023,0 380,275,684,700,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\0ae1e36982c06a84.jpg 820,99,1019,429,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\0b39979279b3b8aa.jpg 268,10,690,403,0 490,246,1012,737,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\0c36caca3daef905.jpg 115,284,230,391,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\0dad27548e94e6ee.jpg 770,5,884,85,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\0deb94399a94468a.jpg 61,236,523,721,0 304,34,666,411,0 583,241,984,635,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\0eaaa0f4beec10f6.jpg 544,400,684,529,0 622,242,926,525,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\0edbe76780629a8a.jpg 522,263,1023,735,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\0f5afa7e7df967e5.jpg 0,335,249,637,0 195,269,982,606,0 197,273,979,605,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\0f8aa6809a87fb83.jpg 352,819,598,1022,0 478,522,682,729,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\0faf0be80bfd9a3c.jpg 23,146,499,569,0 489,80,967,548,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\0fb342b1e5f088c2.jpg 183,351,441,658,0 282,38,622,368,0 302,286,396,383,0 401,347,762,711,0 637,282,862,605,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\104e6914feba2f8b.jpg 39,64,59,79,0 115,162,924,700,0 330,112,348,133,0 341,141,357,156,0 524,113,549,130,0 538,707,575,747,0 717,563,759,604,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\10a5636ade1f9999.jpg 81,159,573,590,0 628,250,944,540,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\115edabf25440868.jpg 445,150,554,262,0 188,135,1010,545,0 712,438,984,575,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\1196ad657c2c26fb.jpg 570,65,818,321,0 0,0,1023,767,0 533,408,794,663,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\121dcf037172b59d.jpg 10,813,189,997,0 63,689,96,721,0 106,787,140,805,0 236,862,276,901,0 253,815,297,856,0 272,310,312,350,0 276,925,312,953,0 281,525,296,548,0 322,259,365,301,0 324,668,346,701,0 324,480,350,506,0 325,324,378,366,0 332,737,364,780,0 348,483,379,516,0 351,796,444,1004,0 362,666,403,704,0 388,382,432,415,0 401,0,513,196,0 432,698,474,729,0 467,443,523,497,0 477,713,516,752,0 485,315,528,346,0 493,343,548,396,0 508,656,544,684,0 509,631,544,652,0 515,399,558,434,0 534,373,568,401,0 572,701,620,729,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\14512d5864eac043.jpg 69,192,871,659,0 0,284,99,587,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\15238194ded0f627.jpg 10,296,219,521,0 144,332,474,678,0 510,245,1023,615,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\15cd7e4b0f75834d.jpg 426,266,496,346,0 228,44,304,129,0 243,457,286,534,0 511,303,577,373,0 559,333,625,399,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\17572405728bf4f6.jpg 211,274,337,383,0 162,102,780,456,0 168,172,544,456,0 348,614,456,731,0 348,496,632,771,0 365,517,464,614,0 432,568,533,682,0 448,667,555,773,0 460,496,562,595,0 524,577,634,693,0 608,417,745,545,0 658,545,793,682,0 748,440,871,569,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\1807cb0a6e85a040.jpg 360,212,951,589,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\186ed54e3c3993d8.jpg 71,24,422,277,0 0,0,1022,686,0 648,266,1022,686,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\188579ecec6d3faa.jpg 0,0,266,263,0 199,522,450,778,0 381,373,627,629,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\19afe050cb6620a9.jpg 1,44,366,436,0 3,3,1022,681,0 316,145,741,533,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\1a3831ee18c01058.jpg 129,460,243,558,0 192,367,296,482,0 246,463,355,570,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\1f76ac5e32b66c76.jpg 234,542,356,671,0 148,570,265,684,0 782,511,901,620,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\20a2857a64b585d5.jpg 785,362,881,442,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\221f2b6febc03c19.jpg 723,10,920,233,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\246fdaba724b926f.jpg 302,40,934,682,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\25c258f62baa16da.jpg 569,386,1013,910,0 0,123,391,537,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\27ba3ea19605290c.jpg 172,839,296,977,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\2c9eca78f22b791d.jpg 220,311,704,720,0 342,495,397,532,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\2ceeec3cd5b69347.jpg 0,289,25,319,0 0,310,44,352,0 0,16,202,147,0 0,474,632,1023,0 18,345,46,364,0 18,371,242,520,0 30,301,55,332,0 158,84,405,205,0 167,0,356,53,0 209,424,454,581,0 323,0,531,109,0 385,126,672,429,0 431,835,502,908,0 440,469,692,635,0 535,28,774,147,0 600,345,816,469,0 613,842,893,1023,0 695,516,1007,770,0 711,250,895,350,0 769,168,942,250,0 816,270,1023,549,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\2e373ce80cfe1fe7.jpg 42,130,325,416,0 151,29,384,309,0 320,115,600,337,0 346,324,588,384,0 371,290,631,363,0 456,0,713,176,0 588,312,767,477,0 620,94,872,183,0 702,325,826,444,0 702,0,926,170,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\339aa5033e63e3a6.jpg 302,94,704,497,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\365977cd5795f7eb.jpg 389,33,672,353,0 69,0,1023,574,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\3767fab99bb8e9f8.jpg 16,66,241,418,0 0,423,642,677,0 769,236,1023,677,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\37780c0eca74d552.jpg 25,448,242,711,0 26,266,230,478,0 28,866,50,933,0 31,699,102,888,0 63,855,399,997,0 160,25,684,533,0 235,548,271,637,0 276,642,599,970,0 393,957,508,993,0 517,925,744,997,0 545,316,993,970,0 553,16,675,60,0 647,45,702,112,0 674,23,926,140,0 926,25,992,76,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\39255683c1e19e50.jpg 0,518,122,637,0 26,587,58,621,0 135,501,222,571,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\3934490e151afb5f.jpg 12,282,337,681,0 188,0,1022,681,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\399b247e8092b0d9.jpg 277,113,755,611,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\39d8aada1524942f.jpg 0,0,1016,767,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\3b629a59c16e56df.jpg 394,258,615,478,0 405,128,459,182,0 602,0,676,70,0 693,196,778,291,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\3d42211b6e40a015.jpg 189,268,527,633,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\3fa3b754c7ee06e0.jpg 666,305,820,464,0 461,138,1023,547,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\433ca4a17c31e82a.jpg 202,158,647,544,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\46a7eecb201be435.jpg 74,72,917,673,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\4716e71b98ff1762.jpg 260,58,367,179,0 90,337,243,461,0 137,231,241,339,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\4cce4072af3e3b2f.jpg 0,0,766,1022,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\4d0d7b4015faf4f7.jpg 408,594,576,761,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\4dce0c012546d8d1.jpg 550,481,817,740,0 233,448,521,734,0 359,116,753,351,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\50aa8f4a83abf19f.jpg 563,311,780,452,0 323,319,555,445,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\514ac3f662cd8df4.jpg 206,172,852,825,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\51980fe7e2e71a08.jpg 315,92,817,644,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\544209f1a6c202e8.jpg 53,774,253,955,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\5444b98b94cd117c.jpg 650,333,766,422,0 192,609,307,705,0 289,645,389,738,0 357,603,453,707,0 376,511,464,608,0 389,692,455,749,0 440,554,536,621,0 508,710,586,767,0 664,204,764,306,0 707,190,796,261,0 716,284,828,396,0 739,736,844,767,0 837,722,928,767,0 897,655,999,766,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\55f31a9f3113ffaf.jpg 492,0,822,207,0 90,165,394,448,0 276,35,535,286,0 282,277,527,554,0 473,176,734,386,0 498,318,814,576,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\576a9033c0dfb828.jpg 31,264,65,307,0 41,242,88,276,0 41,440,160,568,0 70,276,110,304,0 172,205,205,225,0 194,555,520,861,0 200,388,376,518,0 210,199,242,217,0 286,801,339,861,0 291,122,480,267,0 314,312,680,557,0 533,496,883,759,0 545,180,871,399,0 819,349,987,512,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\57b38abf6ce20747.jpg 491,120,657,257,0 38,577,93,607,0 46,880,127,947,0 103,485,175,527,0 180,600,239,665,0 317,264,456,409,0 414,558,555,701,0 418,659,563,762,0 458,460,587,580,0 538,686,595,746,0 602,724,665,798,0 667,411,759,527,0 704,655,841,793,0 766,416,876,532,0 841,147,921,202,0 853,217,943,301,0 885,204,963,269,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\593e67a095cf1f56.jpg 2,551,403,890,0 265,634,314,679,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\5cadb36eba0caaf5.jpg 261,200,554,488,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\5ccdbf7d20bb3ef9.jpg 7,433,401,766,0 0,0,1023,767,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\5da9b9a84b8c5092.jpg 196,51,945,768,0 0,49,132,639,0 2,0,392,765,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\60083639a54fd300.jpg 383,600,518,732,0 174,496,241,531,0 191,370,319,501,0 234,449,350,536,0 331,430,465,531,0 497,590,609,717,0 627,591,774,718,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\6193372e94fec1da.jpg 289,217,560,451,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\61d30e5b004da6e4.jpg 161,488,542,835,0 0,282,1023,862,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\62f4a4ffb8881555.jpg 272,158,771,667,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\63014d0778c6fcb4.jpg 217,192,580,659,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\630407ca732121b4.jpg 311,362,466,495,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\63a457bb2c2584a2.jpg 604,139,707,235,0 25,743,62,774,0 142,692,209,752,0 198,891,238,931,0 270,873,300,902,0 292,864,310,880,0 304,499,345,526,0 364,465,433,532,0 536,412,729,758,0 604,871,672,934,0 750,550,790,593,0 787,566,844,615,0 811,225,873,284,0 833,726,871,760,0 851,574,918,635,0 867,736,899,768,0 880,156,910,185,0 900,128,935,164,0 944,560,982,590,0 948,596,990,636,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\64d77cf23e33b644.jpg 389,421,588,617,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\64e75a5b3ad55e9a.jpg 520,710,609,842,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\6614f4ede66d443d.jpg 766,549,974,768,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\67ef0dad37fb17fa.jpg 95,769,275,963,0 293,614,444,778,0 465,524,559,644,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\68bc5c0153a80e6b.jpg 343,725,454,794,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\6969f7074c7d2f52.jpg 167,529,364,682,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\6bfffc06bfe47f8e.jpg 10,323,73,369,0 12,496,28,510,0 44,479,113,529,0 71,592,127,647,0 102,205,152,254,0 117,516,172,562,0 146,213,212,272,0 176,505,199,542,0 196,498,243,544,0 200,542,238,578,0 221,170,257,214,0 246,205,297,252,0 257,154,314,215,0 331,414,382,459,0 385,398,430,453,0 387,297,431,345,0 443,345,476,382,0 482,243,529,286,0 487,432,524,461,0 499,516,528,537,0 545,484,842,659,0 738,273,782,319,0 881,464,926,504,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\6cef4b79f59c4bf8.jpg 569,523,778,634,0 0,242,76,405,0 0,190,85,250,0 32,211,210,365,0 255,222,416,375,0 414,372,986,609,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\6df95fd977ae5381.jpg 44,50,556,639,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\6eca3719700d60bb.jpg 306,504,434,584,0 0,208,677,1023,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\6fd3cd349ce66686.jpg 231,337,320,429,0 0,155,72,223,0 0,293,747,1000,0 243,283,345,323,0 399,29,659,236,0 529,287,613,327,0 683,200,748,234,0 694,73,748,208,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\720e6797dd42dec0.jpg 388,389,610,600,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\7a38af2feb7dfbb0.jpg 499,46,862,442,0 184,455,528,854,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\7b4a0f7d9b3b2090.jpg 681,508,728,590,0 716,464,762,557,0 717,589,753,673,0 718,561,767,603,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\7d5be279c905b3fa.jpg 0,230,530,631,0 796,543,955,671,0 798,659,938,767,0 919,640,1023,767,0 931,547,1023,662,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\7d6428c867eafe8d.jpg 107,561,333,772,0 181,353,360,510,0 290,456,501,672,0 326,677,523,877,0 484,457,672,661,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\7ea5b9a90d2aebc8.jpg 579,545,756,737,0 289,521,339,619,0 289,313,452,468,0 451,211,684,248,0 924,529,1022,750,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\7ef24fe58b16f63b.jpg 55,606,221,775,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\802fef4e40b2586f.jpg 408,222,604,443,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\82ae941415b35213.jpg 141,375,222,453,0 0,116,1023,678,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\87e88ea71a9c8a71.jpg 209,159,563,575,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\880de1e96516d4da.jpg 90,256,188,357,0 0,0,1022,275,0 0,107,1023,681,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\8bb1d1cc3f05ac8c.jpg 488,106,696,298,0 201,830,414,1000,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\8f9bc23a9e9b9f70.jpg 321,639,410,716,0 120,637,462,769,0 528,707,767,896,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\91ac9bed508cea2c.jpg 524,214,638,348,0 636,198,715,320,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\93d09a3dac80ffe5.jpg 61,124,433,347,0 408,130,717,325,0 771,290,1004,547,0 886,374,1023,648,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\979f0288b0c71599.jpg 125,420,369,656,0 3,13,1000,633,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\9a6b9b0e853cd630.jpg 313,145,769,591,0 119,210,373,534,0 373,122,689,220,0 723,120,987,508,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\9af5e9a65d823346.jpg 484,157,711,360,0 269,293,505,520,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\9ea198655f06d84f.jpg 156,679,298,800,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\9f1fa6910082aa06.jpg 314,399,583,727,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\a2b1a89c569ee7af.jpg 3,8,1016,993,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\a2b98b1864914c66.jpg 291,129,696,587,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\a2ce131c16fd9a47.jpg 497,189,958,635,0 0,0,1022,520,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\a35b63e66709dcf3.jpg 620,256,964,542,0 47,193,391,554,0 375,242,654,546,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\a52b60988f815615.jpg 79,272,511,677,0 749,305,1023,745,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\a54ac9431a985bf6.jpg 21,242,273,544,0 309,917,652,1023,0 331,832,587,969,0 413,347,663,661,0 474,651,665,791,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\a5c601a55c21ca46.jpg 335,205,692,579,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\a69f8792bd8ae5d5.jpg 436,165,580,267,0 74,91,117,142,0 96,94,131,140,0 110,96,142,142,0 137,91,165,129,0 208,201,370,277,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\a9066c613e840878.jpg 456,172,554,276,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\ac04860f577f5846.jpg 742,13,995,291,0 0,13,1023,677,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\ac48ce2bf431e9d4.jpg 213,188,721,747,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\ae6be536a932a749.jpg 204,486,457,726,0 0,327,1023,767,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\aeb74d9188146556.jpg 7,153,157,352,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\b30ac4b0ee2078f5.jpg 433,218,615,390,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\b3cbc32556e1e877.jpg 195,148,782,639,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\b5cf54f877f2e5b8.jpg 126,192,229,269,0 0,0,636,661,0 537,354,1023,682,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\b6980597213fd1da.jpg 705,533,845,652,0 828,563,970,713,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\b83c9000cbb4f94b.jpg 657,237,730,308,0 282,468,320,497,0 375,495,470,567,0 665,183,711,233,0 707,426,759,476,0 737,144,785,199,0 844,69,884,107,0 906,6,949,53,0 945,555,972,593,0 957,469,991,509,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\b94da229e2db2494.jpg 492,287,614,394,0 271,88,734,392,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\c06e8f008ee7ac8e.jpg 762,153,904,296,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\c1a5df82da6e833d.jpg 629,553,725,648,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\c659162b927f0cfe.jpg 495,320,726,590,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\c8aeeb234241cf87.jpg 519,324,690,486,0 227,191,401,353,0 301,396,471,560,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\cc48c73b8406f7c8.jpg 104,0,921,768,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\cd3d607d7bb6f372.jpg 0,0,1023,680,0 644,241,870,582,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\cd6b764e4ca7209a.jpg 327,328,625,555,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\d06f2cfc50b1e081.jpg 0,553,145,752,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\d104b8a9370b947b.jpg 177,729,367,901,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Apple\d2d3bb2345399b5f.jpg 312,413,626,678,0 96,112,425,446,0 136,514,338,754,0 366,664,620,919,0
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\00d843af60eecf7c.jpg 0,0,1023,643,1 31,0,508,643,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\00eb232a365ddeaa.jpg 371,147,570,272,1 458,193,526,240,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\01e6f55bc3f568b3.jpg 488,332,588,371,1 538,315,650,369,1 614,320,714,358,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\0310ed08d294f107.jpg 0,187,453,996,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\038c4b217298cb5b.jpg 0,386,55,425,1 0,448,291,795,1 6,386,58,428,1 16,382,66,434,1 34,386,72,436,1 184,18,894,795,1 225,106,519,795,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\03b294f390127251.jpg 238,186,704,630,1 395,0,885,397,1 547,114,928,515,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\044a124015f87fad.jpg 5,363,285,536,1 442,158,556,345,1 520,156,630,344,1 785,247,1023,536,1 818,0,982,251,1 913,0,1023,250,1 921,254,1023,427,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\045597a197572819.jpg 256,0,876,337,1 598,72,682,183,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\0492edd3ed89e83b.jpg 19,350,689,1008,1 205,467,578,728,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\04ba92ddbf968f2e.jpg 55,163,369,480,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\04d128efffc684fe.jpg 256,64,296,111,1 280,62,321,102,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\05e43070846ac6dd.jpg 305,565,444,847,1 370,624,388,669,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\069ee71de0456c3b.jpg 253,33,778,320,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\08ad6b0cca01cd7b.jpg 0,0,1023,767,1 430,441,857,735,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\08b777b38502c504.jpg 265,200,698,424,1 305,362,820,647,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\08dd20abfc77befa.jpg 462,0,733,623,1 502,280,1023,679,1 546,0,931,563,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\092604e1d8923387.jpg 45,101,1023,380,1 265,279,439,337,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\092d59a67c16195a.jpg 176,852,399,1009,1 296,743,473,823,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\09c3ab2e34802604.jpg 249,46,888,939,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\0a99cba28b9cd5f0.jpg 179,25,624,758,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\0b6c95f4c4e51391.jpg 108,53,872,932,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\0b71c3eac5c786b9.jpg 89,23,730,517,1 106,164,621,627,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\0b8171f866ca02b2.jpg 213,128,938,456,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\0d1cc3eb91c7816b.jpg 341,274,384,341,1 344,249,366,272,1 394,263,418,318,1 546,262,589,312,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\0d55571fb82738a1.jpg 243,78,648,552,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\113013082362759b.jpg 49,112,227,262,1 256,86,440,279,1 453,80,613,270,1 682,115,878,226,1 686,202,867,319,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\11dc2c0ebf671575.jpg 1,266,961,634,1 391,480,436,565,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\12d724812211b002.jpg 766,283,926,339,1 903,303,926,317,1 951,320,972,339,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\12d935a6b4f1ec53.jpg 202,103,703,366,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\12ed62ffd809397e.jpg 732,154,864,348,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\137086dd395a56e4.jpg 46,252,442,464,1 606,293,988,460,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\13b15e5b4132d997.jpg 346,0,1022,760,1 641,506,725,616,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\155c2f1c72e66ea3.jpg 63,162,920,454,1 78,23,848,249,1 208,183,944,387,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\15cc05949c6a175c.jpg 312,464,608,553,1 316,472,615,540,1 328,535,633,620,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\1712862a8482a236.jpg 28,27,664,1001,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\17411ab8bf921bcc.jpg 84,62,955,928,1 564,378,674,662,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\17aef69068f3bba9.jpg 0,60,147,255,1 51,10,231,249,1 256,37,389,309,1 391,0,592,218,1 463,98,503,166,1 718,0,859,124,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\19f00e9f6214a752.jpg 460,0,1023,388,1 508,101,552,151,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\19fdbe8190a1a1e0.jpg 0,821,296,1023,1 0,69,1023,1023,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\1a92faf3eacc5729.jpg 600,406,728,506,1 245,217,456,350,1 255,255,451,387,1 318,126,452,236,1 323,355,463,485,1 375,423,483,529,1 490,63,549,199,1 530,442,602,542,1 575,37,686,225,1 629,343,820,401,1 674,192,801,303,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\1b962c5593ce3ca7.jpg 122,334,778,686,1 127,328,539,520,1 218,149,810,411,1 349,299,736,382,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\1bd8ceb507ad9e96.jpg 42,442,591,907,1 271,513,332,679,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\1bed173838ea8a28.jpg 782,0,849,72,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\1bf66c419f9801ab.jpg 55,288,287,900,1 151,235,462,970,1 310,344,411,812,1 349,312,828,826,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\1bf6c16ca77a7cf8.jpg 0,32,687,762,1 433,227,643,446,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\1ca155a264b0dc7d.jpg 0,0,767,1023,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\1cc88aca6b0ee01f.jpg 539,269,659,311,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\1dbc71f83a2b1620.jpg 94,360,425,541,1 432,124,678,591,1 792,524,986,680,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\1e2b090f4f0090ce.jpg 211,273,693,684,1 298,9,446,209,1 351,294,433,339,1 645,223,841,404,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\1f1339358f16e088.jpg 164,510,258,619,1 0,0,682,1023,1 253,519,372,662,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\201a319249d6ca48.jpg 314,625,540,822,1 52,242,614,824,1 201,300,292,495,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\21a504c352d4dab1.jpg 0,37,976,322,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\21c03dfb0a34214d.jpg 0,0,767,1023,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\234dab3d6f621973.jpg 3,2,613,1023,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\24566bd6cafd76bc.jpg 608,249,704,460,1 654,340,673,375,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\246f29c1f420f5b8.jpg 272,138,767,1023,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\2562c0adf80c0337.jpg 0,53,691,997,1 540,228,689,945,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\280b8d6eed10c375.jpg 8,32,989,557,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\2886a228cb9ea27a.jpg 215,368,452,604,1 306,495,354,554,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\291e629c148bcc30.jpg 0,45,1023,677,1 471,157,557,362,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\293ff8fcc5a8bdce.jpg 189,99,821,673,1 479,509,600,552,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\29d30134f3c0836b.jpg 201,394,1023,767,1 430,559,682,767,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\2a7f79bb9f437af5.jpg 99,213,714,672,1 165,436,316,623,1 308,206,433,288,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\2d9f6e8810718ea7.jpg 189,163,866,705,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\31149c1c4ba6e202.jpg 345,152,628,472,1 535,235,567,309,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\311613b4cf55f24d.jpg 35,170,582,767,1 414,310,957,767,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\3122cba439f6d23b.jpg 210,584,335,925,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\31cb4295daa96af6.jpg 383,302,669,597,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\3266a88354c50c54.jpg 223,261,412,629,1 223,148,749,636,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\32c00940e6d5993c.jpg 0,0,1022,1022,1 555,403,649,804,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\334d640c8ef2b085.jpg 92,532,244,843,1 172,522,324,834,1 257,538,409,843,1 339,555,505,866,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\348d51c8555fd9d3.jpg 254,511,456,667,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\371ce3db44247b94.jpg 0,326,19,378,1 37,335,110,524,1 43,272,80,396,1 98,327,148,396,1 127,338,183,516,1 150,324,210,400,1 237,344,295,512,1 334,324,388,522,1 418,325,464,512,1 558,213,611,266,1 600,230,675,511,1 641,181,1023,670,1 651,233,725,504,1 675,249,689,338,1 694,220,736,345,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\3b9da36814c2cec4.jpg 0,0,1023,677,1 426,311,684,672,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\3ba7a35518fc8208.jpg 399,153,644,502,1 556,204,571,324,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\3c2851b4c2d6ab24.jpg 242,21,573,224,1 193,19,624,661,1 263,133,344,238,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\3c420f8ab88a11d9.jpg 115,660,784,993,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\3c7713d780af97a1.jpg 130,473,980,766,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\3e959526c7b5968b.jpg 184,177,499,485,1 213,100,888,700,1 542,416,745,473,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\3f1f25754abd7e6b.jpg 152,349,935,592,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\3f89ad3ebc3db2aa.jpg 77,83,841,767,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\3fa1fe3f26c80fde.jpg 88,560,873,1022,1 326,863,813,1022,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\3ff5081c3bfaa880.jpg 46,263,384,723,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\440e8b3f5197ded3.jpg 470,193,702,450,1 42,434,150,569,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\45f4deb3b924bea1.jpg 307,62,772,580,1 475,217,674,414,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\461177c63aad464d.jpg 194,427,352,572,1 297,238,623,401,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\4743a4cea3537ea7.jpg 26,216,908,609,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\483c7af17bc56157.jpg 347,155,695,545,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\48e4223a13e44cbd.jpg 0,0,767,1023,1 131,0,501,935,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\4b596dc8ee2c0a9b.jpg 88,50,321,876,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\4bd4535cbff245cf.jpg 122,15,868,936,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\4d8e945bfb323abe.jpg 220,51,654,323,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\4ed9881f8dd89029.jpg 0,118,599,680,1 246,21,950,675,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\52e08c15aa11eb4c.jpg 83,139,913,584,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\5444b98b94cd117c.jpg 503,296,711,378,1 513,277,711,336,1 568,361,650,400,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\54b83b33de0a8523.jpg 319,392,441,567,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\5e7ba16ec351a172.jpg 177,65,368,508,1 667,0,796,614,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\63303b31c254611e.jpg 238,183,613,340,1 343,345,463,458,1 403,483,489,560,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\6463f252a1dc22c4.jpg 0,118,984,507,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\66b1ac19ac2fe260.jpg 288,623,348,680,1 357,630,406,680,1 402,634,470,680,1 615,9,771,385,1 734,369,1012,515,1 806,443,1018,485,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\67923dd2157886e0.jpg 95,565,606,906,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\67df5ace00052cc1.jpg 0,302,766,939,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\68e6f975fe778f81.jpg 204,0,567,415,1 673,408,767,619,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\69f3806648ee0c21.jpg 30,174,972,907,1 280,598,646,817,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\6a235e1f6981d4f1.jpg 165,404,286,563,1 166,290,501,559,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\6d912b7f9a4a6be1.jpg 0,136,720,765,1 131,51,1023,440,1 360,341,926,662,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\6ebb3ad17d278f06.jpg 405,24,857,679,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\73517e6d594d7989.jpg 0,96,718,413,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\76d74e8afd19313e.jpg 0,0,1023,525,1 193,0,670,394,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\79faa35d7b14f4f5.jpg 435,328,540,488,1 760,162,907,419,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\818adfd0817c675e.jpg 0,183,938,438,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\82c6431f2a0503ae.jpg 53,213,972,592,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\82e61104346adafc.jpg 276,0,817,956,1 336,3,568,260,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\8337bdcccefa9e52.jpg 422,90,645,414,1 57,0,692,767,1 446,90,561,248,1 768,66,1023,336,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\8c3262c88e6dcea2.jpg 204,577,364,719,1 0,288,103,446,1 167,370,1023,767,1 457,123,501,185,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\8c3e59aae143360e.jpg 93,0,1016,766,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\8f4026e61be01108.jpg 142,384,816,736,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\9379011e7f879edb.jpg 0,426,232,660,1 0,431,563,958,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\94e96f54aecc9505.jpg 374,563,575,734,1 389,403,423,436,1 423,355,547,529,1 460,356,549,481,1 575,456,777,732,1 674,508,824,727,1 784,496,839,591,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\95abb4178cb6d412.jpg 117,16,482,375,1 0,0,1022,606,1 625,66,684,129,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\995cba851d7ead6f.jpg 211,74,933,407,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\9e8e450b879429df.jpg 92,294,513,699,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\a041d8413eff2825.jpg 0,111,574,442,1 0,185,659,534,1 0,416,743,633,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\a3714ff221b488a0.jpg 0,0,654,469,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\a62290d4e7d99acb.jpg 215,233,412,748,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\aa4b88b1f645dfc1.jpg 0,494,135,653,1 0,290,143,437,1 0,83,149,219,1 176,454,355,576,1 183,288,364,411,1 193,100,364,235,1 228,0,367,56,1 281,613,350,653,1 376,559,494,653,1 381,429,497,521,1 387,290,504,384,1 393,137,508,242,1 401,0,515,103,1 511,0,1023,653,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\b0e3afa628f396ab.jpg 190,40,961,670,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\b1ce6250dad71e9e.jpg 275,364,1022,766,1 921,680,1022,766,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\b581ea783ab449bc.jpg 0,655,18,684,1 1,618,62,668,1 37,606,115,667,1 227,552,310,577,1 245,572,337,604,1 267,614,337,695,1 307,608,368,674,1 325,606,405,661,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\bc0eae31bf41e388.jpg 668,410,1023,767,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\bd3e0bb5a95e18a6.jpg 204,615,475,785,1 204,758,677,1023,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\bdca0de8a4d360a3.jpg 364,279,586,413,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\bfa712a0992f6f49.jpg 77,87,593,681,1 349,61,784,522,1 568,62,880,301,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\c04829a8332854d3.jpg 0,0,1023,1022,1 406,125,770,1022,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\c077585b82a30324.jpg 238,0,883,564,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\c2138376d54e92cb.jpg 332,244,684,371,1 347,380,684,504,1 377,180,713,312,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\c25cf3cc894353c1.jpg 0,0,1023,1023,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\c6f88c9e3afc46c5.jpg 0,0,1023,764,1 215,64,558,660,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\c722395efdffd1d6.jpg 0,61,882,622,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\c93a0979b7a28e6a.jpg 625,0,1023,526,1 824,266,872,376,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\c95c7a5a8a81883c.jpg 75,327,399,1023,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\cb8e3685dbdde829.jpg 559,84,961,361,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\cbca506cf823c639.jpg 87,419,526,638,1 89,205,1022,461,1 725,387,947,456,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\cc6db269a666ea9e.jpg 42,0,949,646,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\cdb87dbe610e9f63.jpg 517,260,953,656,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\ce9ea2c1f24c13f1.jpg 147,318,288,475,1 259,611,408,764,1 324,400,484,540,1 454,220,528,356,1 505,551,668,684,1 518,67,654,177,1 590,438,721,560,1 745,105,883,233,1 763,384,912,524,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\d1cb19c94c3ecec5.jpg 428,0,1018,764,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\d33c0a2ebe41fb5a.jpg 416,434,501,489,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\d359cc7acdb29ca3.jpg 158,359,417,558,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Banana\d64e231797fe5956.jpg 588,385,814,691,1
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\015f76a42ec879f6.jpg 459,254,750,680,2 497,0,1023,479,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\01b32dadf81ac313.jpg 355,136,392,259,2 373,76,460,337,2 421,111,517,336,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\023311ae11d5e3be.jpg 492,721,681,801,2 539,692,720,743,2 600,630,775,707,2 606,553,775,692,2 803,289,902,364,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\0313d19eb780e21f.jpg 417,145,529,247,2 427,94,677,325,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\038ac177215be388.jpg 559,305,860,593,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\040d4530d9b8993c.jpg 270,392,400,489,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\0429706a3ea85e52.jpg 104,291,366,395,2 145,419,311,516,2 591,294,678,498,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\047fb25445092986.jpg 65,331,302,979,2 288,32,1022,577,2 568,513,590,571,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\0580437897ce8328.jpg 0,0,1022,618,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\058f1602638415f5.jpg 225,430,312,522,2 131,98,725,622,2 237,199,390,327,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\0606d2ac1baaf49e.jpg 52,619,76,715,2 69,517,225,776,2 496,407,706,736,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\066c6ee7a8120370.jpg 400,265,625,570,2 597,195,789,388,2 753,118,928,272,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\067d40e5b93cc9a5.jpg 1,0,481,1020,2 170,0,371,640,2 428,36,508,1023,2 483,0,764,1019,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\08a6022ecc79b2a7.jpg 202,398,339,484,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\09716516db5102f9.jpg 206,391,315,462,2 222,305,291,379,2 243,243,327,312,2 320,536,384,608,2 355,186,425,235,2 357,235,432,277,2 366,552,440,648,2 394,488,502,584,2 419,200,487,257,2 577,252,646,307,2 635,272,727,367,2 641,362,733,462,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\0a1fd12f6dfbcb93.jpg 2,440,81,510,2 58,464,100,543,2 112,424,196,476,2 158,640,423,783,2 168,436,205,478,2 172,412,224,436,2 228,837,326,928,2 311,300,371,364,2 444,344,527,419,2 451,305,520,335,2 485,419,549,469,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\0a76d04791eb3eb4.jpg 173,263,308,427,2 254,369,309,535,2 411,584,444,699,2 461,653,661,764,2 521,71,644,222,2 622,715,762,858,2 634,764,798,886,2 651,598,797,730,2 659,165,812,286,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\0b4073dbb94d7e2c.jpg 328,515,524,637,2 346,334,579,454,2 668,351,778,514,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\0b5599a0ea6df06b.jpg 0,316,118,515,2 574,57,803,190,2 667,344,1004,681,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\0bdf8bc4a1d31539.jpg 0,0,832,634,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\0c53f1813ffbe760.jpg 122,664,767,910,2 291,703,390,771,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\0cb5f286d3c99ff8.jpg 0,0,586,680,2 369,382,577,680,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\0eb4d8c71846da25.jpg 0,0,622,124,2 62,344,131,681,2 69,354,620,681,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\103b542645332e4a.jpg 21,0,241,273,2 25,115,978,286,2 238,0,476,271,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\105d2e0fe5512f20.jpg 648,182,774,541,2 74,284,196,586,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\10ae1b38eafd4375.jpg 416,438,501,534,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\11169521684876b1.jpg 0,268,204,606,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\12bde85dd15685a6.jpg 243,325,418,767,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\13ddcea13cee7dc2.jpg 81,247,508,316,2 110,314,278,393,2 224,138,535,261,2 291,45,387,163,2 366,289,711,365,2 394,40,926,318,2 430,303,792,483,2 657,407,936,618,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\159b61d55b40cde5.jpg 0,172,321,497,2 197,302,743,430,2 627,231,1022,487,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\1967045a84a308e6.jpg 459,1,682,337,2 534,154,614,341,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\19efa152a7c1a37c.jpg 177,63,1017,680,2 653,56,855,545,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\1e5c804572ae4da9.jpg 733,254,825,320,2 5,134,88,252,2 40,180,231,305,2 464,78,933,349,2 533,167,569,217,2 855,279,887,349,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\1e8f0eddb38f4e89.jpg 380,240,570,767,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\1eccf09c3d9bdc2b.jpg 458,117,641,317,2 0,0,1023,767,2 433,459,593,631,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\1fb85991b739ea25.jpg 288,95,552,393,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\1fbc7270c4346af0.jpg 15,1,1023,767,2 609,568,648,656,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\204da75739da3f91.jpg 529,278,958,745,2 499,369,665,502,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\210b0dd157fa7cb0.jpg 57,34,1022,768,2 151,119,361,712,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\211971419f3d6279.jpg 0,3,1022,679,2 0,298,661,487,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\22025c92ab2e46b7.jpg 45,0,1023,699,2 250,130,524,343,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\23267ef712b4815f.jpg 764,302,1018,737,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\2a2c9bc74cb89bbc.jpg 0,0,767,450,2 0,318,767,812,2 260,809,767,1023,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\2b932d4fa09e1603.jpg 711,12,922,216,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\2bd0481f7cd1f4d6.jpg 170,200,475,314,2 264,288,477,539,2 457,32,499,172,2 475,176,564,322,2 536,132,742,248,2 563,315,809,480,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\2e127e603ad0df0d.jpg 131,536,508,767,2 238,84,803,580,2 716,611,784,767,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\3280973ab2022210.jpg 582,119,754,324,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\398c52f6e4b8c869.jpg 0,0,355,427,2 40,265,322,344,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\3c957e85dbcf11ec.jpg 0,0,926,757,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\3ecb795cdb10a210.jpg 25,31,995,998,2 269,463,391,855,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\43e8c8393fa1c64c.jpg 684,234,1024,530,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\4acc22aee75c473b.jpg 0,0,1023,889,2 459,412,694,629,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\4d24cc317f858427.jpg 5,2,1015,1009,2 360,126,479,604,2 562,65,747,997,2 625,238,925,887,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\4f9fe26bbf8ab963.jpg 171,235,952,628,2 554,302,862,586,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\518964b0b445ff24.jpg 1,207,1023,792,2 131,405,292,814,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\5270079e08e3b965.jpg 402,221,787,615,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\5333535b7b9963f8.jpg 51,214,486,399,2 283,309,767,765,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\5347f47e15a54d79.jpg 96,50,681,1022,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\55bde2e2deda1c41.jpg 21,93,768,659,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\58326b95fbdc4f13.jpg 389,272,689,603,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\5910a3d6e116a4e1.jpg 327,220,565,723,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\5a29d19343673463.jpg 97,240,286,911,2 115,140,1005,978,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\5a386c19d2c3c7fc.jpg 510,353,625,606,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\5b7a835736addc61.jpg 0,89,908,937,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\5e99f2379bbfbecd.jpg 232,398,847,542,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\650e53c42bcfe15f.jpg 402,339,518,454,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\679d3278a2cd7b94.jpg 89,387,1023,629,2 382,192,993,484,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\6b5644798c190b65.jpg 313,307,784,505,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\6fb3d323ccf2bee5.jpg 142,680,260,757,2 153,123,228,167,2 167,115,261,170,2 177,108,281,135,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\7166e016637eb1bf.jpg 192,476,280,1015,2 266,509,350,938,2 325,459,424,1023,2 385,553,476,1022,2 471,532,602,1023,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\7274d5a0ae0c430c.jpg 45,166,522,671,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\729fff31d33044b6.jpg 113,672,591,776,2 147,602,596,707,2 269,453,523,735,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\74abc60463c930ba.jpg 28,442,177,509,2 80,394,238,460,2 170,368,291,403,2 208,392,290,484,2 302,340,356,411,2 387,345,419,363,2 393,333,435,351,2 414,319,451,343,2 426,348,456,367,2 664,271,755,335,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\74de2546637b82bc.jpg 220,119,976,408,2 413,33,600,519,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\764a7fbe9cc710f0.jpg 621,10,913,178,2 451,0,579,125,2 682,235,938,292,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\782ea508b8c5f5fc.jpg 485,226,650,573,2 625,276,702,573,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\7874d74e01fe3781.jpg 230,396,844,543,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\794d8d363ce18c2d.jpg 0,275,715,553,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\79c3f7b31239dcee.jpg 546,470,647,583,2 251,569,394,814,2 425,510,528,659,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\7be7ebabeb4b75ce.jpg 303,286,574,766,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\7c924012e926c43e.jpg 0,597,445,919,2 0,230,737,699,2 14,445,637,759,2 83,149,1021,819,2 179,51,1022,728,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\7d69ef9045135b3a.jpg 0,0,1023,677,2 222,586,337,677,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\7da30652a5d3adf7.jpg 0,44,682,910,2 49,659,171,885,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\7f8aea60f301a831.jpg 69,48,906,743,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\831fc479f5b47b6a.jpg 28,445,967,698,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\83db962bb7626bb8.jpg 380,577,666,650,2 412,546,577,620,2 455,506,702,623,2 652,511,739,664,2 723,564,784,635,2 787,543,958,613,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\857f2e0ce5642082.jpg 785,571,857,715,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\872a4021d17c3590.jpg 113,419,871,1024,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\8c3c23d16b754582.jpg 408,379,903,678,2 60,94,935,688,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\8e239c91ff700aee.jpg 1,21,1023,764,2 519,174,823,695,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\8e6f8acd28fd8f35.jpg 737,33,965,108,2 785,14,879,44,2 814,100,872,137,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\8fe7a0ac97fcc4a7.jpg 137,5,994,575,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\8ff8e3e1e9a7ad6c.jpg 522,446,712,667,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\91952ffee146a056.jpg 108,39,923,672,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\9395834ee3bab1aa.jpg 8,313,118,702,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\9463bdc726c0490b.jpg 142,57,381,159,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\94df9c045cac09ee.jpg 104,259,395,778,2 287,285,451,439,2 323,441,547,789,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\97ae126c9ac218da.jpg 339,430,470,994,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\9a2e1976fb85af47.jpg 643,205,866,334,2 0,399,231,663,2 5,502,274,767,2 191,494,451,767,2 328,461,518,694,2 490,373,600,574,2 524,263,647,433,2 703,318,823,570,2 917,311,1023,529,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\9c3c272fb8859770.jpg 196,279,531,760,2 265,408,408,534,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\9fc714d3f5f9fe69.jpg 162,230,937,642,2 404,393,573,521,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\9ff5467093edc842.jpg 558,69,833,241,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\a79e0302b2614aa7.jpg 116,337,233,1000,2 212,285,326,1011,2 302,318,442,1015,2 358,480,477,1022,2 447,294,496,819,2 479,406,589,922,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\abad11bdb7d2915d.jpg 0,0,1022,766,2 427,382,644,766,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\ac2f38b1f0b6e18e.jpg 18,120,346,464,2 168,261,204,414,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\ad000f5713295a4b.jpg 180,219,1022,910,2 336,543,793,831,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\ae74f2c83823123a.jpg 31,88,235,199,2 103,471,529,581,2 0,276,293,374,2 8,69,712,762,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\ae7640301001e602.jpg 188,370,483,617,2 192,153,983,669,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\b0ee563610247a4e.jpg 204,269,517,754,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\b32e4a99ac9a4e9c.jpg 311,241,476,391,2 212,189,330,362,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\b3cafba67de8aae0.jpg 656,411,760,566,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\b64540b30ab5be01.jpg 455,355,585,502,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\ba92afb3a29ddc3f.jpg 184,730,267,913,2 240,721,285,917,2 289,735,334,929,2 317,724,346,842,2 339,730,380,903,2 376,717,409,881,2 392,728,444,876,2 434,716,460,880,2 462,721,487,842,2 490,716,521,847,2 523,728,549,840,2 542,735,577,836,2 584,728,602,850,2 604,728,630,833,2 623,733,652,776,2 649,721,677,840,2 682,717,700,810,2 691,737,721,812,2 709,749,733,784,2 731,749,747,784,2 749,757,764,812,2 764,740,785,782,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\c11b565a1400a675.jpg 21,606,81,649,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\c24ca77ae9c83a73.jpg 328,323,791,648,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\c81d6aabbbf6ea1f.jpg 173,360,300,479,2 213,300,425,554,2 295,546,414,689,2 388,476,504,583,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\cb108736800c1254.jpg 524,384,737,730,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\d569bbc75ae7fbe2.jpg 26,247,631,392,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\d65f987f6e956c04.jpg 0,0,1022,682,2 424,258,544,433,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Carrot\d99f14e2c32bc048.jpg 678,230,851,401,2
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\04a879cdca223eda.jpg 188,306,436,692,3 506,53,892,720,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\0da3e873183ad880.jpg 130,395,180,492,3 703,374,786,502,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\101c71add07e6c96.jpg 467,248,619,450,3 883,314,929,389,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\10c2c8c0e5ab3dfb.jpg 110,0,961,739,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\14e55b155bfb164c.jpg 249,161,559,936,3 14,351,181,712,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\190f81ae0d380ecf.jpg 197,266,337,613,3 2,422,1022,678,3 476,328,519,426,3 492,176,594,426,3 535,318,648,419,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\1a891866b8385c10.jpg 233,64,505,542,3 28,406,348,838,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\1d37bf03bb9b9ff8.jpg 243,55,720,626,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\1d4bb8bb7db189d5.jpg 24,477,184,715,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\22566b23c7ba5a64.jpg 311,238,616,521,3 0,302,12,447,3 23,325,116,496,3 34,428,91,496,3 177,423,205,487,3 209,361,246,483,3 606,328,736,474,3 650,303,684,373,3 702,303,880,467,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\270cc22b3d72f1e9.jpg 8,157,175,821,3 132,146,260,700,3 382,133,680,933,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\298e3bb6b5c0dd45.jpg 0,23,1023,398,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\2b622e2b62f31548.jpg 245,311,310,547,3 375,308,442,531,3 412,293,471,421,3 453,300,538,555,3 535,309,574,525,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\35e0ad6b775433c6.jpg 725,0,1023,440,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\369564815bd31d19.jpg 0,586,193,767,3 0,433,1023,615,3 199,606,277,738,3 334,484,548,732,3 594,606,684,722,3 750,587,837,712,3 839,583,935,713,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\389daade24a64299.jpg 0,83,1023,696,3 42,0,1022,369,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\39d503f7326c8a8d.jpg 420,0,980,768,3 0,179,457,767,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\3b508b867ddfa387.jpg 18,356,45,428,3 88,341,115,408,3 282,341,307,391,3 317,337,334,394,3 359,322,389,404,3 480,327,498,384,3 540,319,562,393,3 640,319,669,376,3 664,321,689,386,3 773,299,868,394,3 985,314,1015,394,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\3b8b40a521f7cc97.jpg 0,213,13,272,3 18,238,63,292,3 69,252,139,316,3 123,273,193,320,3 127,182,168,228,3 143,245,160,272,3 172,257,207,296,3 192,169,207,197,3 200,147,239,234,3 206,242,272,296,3 207,237,229,261,3 238,275,380,417,3 249,232,272,264,3 266,168,294,192,3 279,156,302,192,3 295,249,355,303,3 298,156,328,195,3 302,237,348,266,3 315,165,341,193,3 354,156,375,187,3 362,167,388,194,3 378,154,412,188,3 410,157,429,190,3 434,169,459,193,3 440,238,485,328,3 459,167,490,193,3 475,238,518,349,3 494,259,627,409,3 501,250,548,359,3 574,238,613,280,3 590,240,618,261,3 624,245,670,283,3 636,240,664,272,3 663,240,680,261,3 685,236,715,270,3 695,253,732,304,3 709,316,981,592,3 799,272,895,383,3 821,247,856,298,3 856,244,909,314,3 859,207,889,245,3 878,240,905,284,3 915,253,968,316,3 989,247,1023,305,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\3bf2fb02a60c4800.jpg 126,26,1023,767,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\3d8fb34f8445104e.jpg 187,833,230,958,3 219,824,242,877,3 231,826,286,922,3 298,807,317,844,3 303,848,345,928,3 333,844,351,920,3 468,896,597,1023,3 581,893,655,1023,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\3e6761e4c07760d4.jpg 0,0,1023,767,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\3e9e6f1ed994e8a1.jpg 402,46,533,424,3 506,64,730,431,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\4004bb0ee65fcf1a.jpg 292,506,313,541,3 403,489,430,555,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\41555b97033b1497.jpg 270,100,392,401,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\44fdb1c2cfdb3285.jpg 3,33,687,678,3 736,52,865,222,3 983,19,1023,115,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\469b3da9f915cff5.jpg 125,314,626,880,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\485b8ebbbfe32e8e.jpg 302,469,330,530,3 726,417,782,557,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\4cec8ddcb7741224.jpg 280,289,729,566,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\4dbc627979130678.jpg 28,0,223,524,3 5,460,140,691,3 301,501,552,691,3 336,209,495,532,3 588,349,962,691,3 698,162,822,408,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\4e2678d18ca7c0d2.jpg 574,401,667,604,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\4e6092dacbe99a4c.jpg 460,263,556,407,3 95,144,205,384,3 216,179,293,443,3 272,284,337,427,3 280,187,328,338,3 348,251,412,323,3 592,181,642,336,3 636,177,686,270,3 781,160,848,390,3 830,150,883,400,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\4fd14bbf0da92376.jpg 372,209,462,421,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\517b67f9a32f855a.jpg 24,392,85,437,3 78,361,119,452,3 110,361,163,467,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\51cc5e89bc6fe7e2.jpg 732,76,807,308,3 0,96,478,390,3 490,100,566,319,3 571,94,615,262,3 647,95,743,312,3 659,91,711,293,3 976,158,1023,355,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\52527d394505e8fc.jpg 160,399,282,743,3 0,411,118,767,3 71,408,119,483,3 88,452,177,618,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\5329964929da6712.jpg 124,302,342,728,3 249,330,356,447,3 307,305,373,424,3 413,298,474,385,3 455,295,529,387,3 548,319,608,408,3 574,299,640,438,3 580,312,761,530,3 657,311,1023,767,3 708,323,873,603,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\53b0927c8a3fe4a4.jpg 77,100,465,932,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\562770fd2d48eea8.jpg 23,181,667,945,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\57b7ab6c23180fdd.jpg 150,136,575,776,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\5d8871682745bcac.jpg 77,106,350,430,3 336,103,567,432,3 456,165,792,682,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\5fc147efbc4d1c37.jpg 511,404,750,531,3 702,426,840,568,3 802,420,880,550,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\603666ad490ae5a0.jpg 238,355,323,576,3 466,301,535,412,3 789,321,867,534,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\604c8fb04492bf46.jpg 466,106,556,348,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\633745d0f5b17e81.jpg 494,0,954,683,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\65c978bbdc1828b6.jpg 268,52,544,583,3 545,64,756,572,3 828,78,1023,558,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\6604a4eb25244776.jpg 136,247,304,514,3 308,269,480,526,3 486,283,649,526,3 663,296,822,524,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\6eae9cab62614052.jpg 146,105,288,455,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\71457975df66c1d5.jpg 192,0,621,417,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\71485ff07c076261.jpg 35,163,136,430,3 161,199,215,297,3 167,239,259,365,3 199,280,311,415,3 252,324,427,574,3 273,208,320,238,3 407,164,471,294,3 421,174,472,235,3 491,206,556,335,3 551,235,672,363,3 561,172,590,345,3 565,171,613,345,3 592,293,693,419,3 647,183,897,426,3 940,225,1023,351,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\71dedeae48444c15.jpg 243,226,308,345,3 0,227,165,582,3 68,178,163,314,3 316,301,417,553,3 323,216,392,285,3 374,221,388,253,3 726,250,775,398,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\73c7a5dba9ab7928.jpg 428,71,503,376,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\75e592d35c5205e8.jpg 828,224,1012,763,3 0,180,90,673,3 87,193,331,689,3 483,210,844,634,3 490,270,588,496,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\76e8a6cd6cf92a04.jpg 101,93,1018,682,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\7759eb7ebcdd9843.jpg 5,3,664,1000,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\7998ecd0e3bf289c.jpg 0,0,257,968,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\7b72c991745b6657.jpg 184,284,526,732,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\7becea2b34208274.jpg 363,345,446,512,3 114,376,199,535,3 155,357,221,497,3 581,356,643,485,3 768,366,921,608,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\7c4d9482d1738598.jpg 185,104,408,385,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\7f07d6ab23aeb41c.jpg 279,213,761,682,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\8219f8d4da7cb07c.jpg 432,177,1023,764,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\82af250f8393e951.jpg 181,63,636,906,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\88f996c0ce28a388.jpg 170,258,298,650,3 338,243,474,655,3 599,369,769,652,3 658,344,916,683,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\8a1aa5f335865c1e.jpg 434,53,638,591,3 826,299,874,440,3 990,303,1023,374,3 1007,311,1017,374,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\8b2e9161b35226dc.jpg 177,351,232,519,3 372,387,396,474,3 435,392,456,465,3 449,396,599,565,3 529,352,567,517,3 742,352,802,515,3 778,345,846,535,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\8b54e974303c34dd.jpg 300,292,512,569,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\8bd3a8466b90e028.jpg 0,20,120,477,3 0,0,272,370,3 125,0,225,145,3 280,0,358,240,3 339,36,388,222,3 358,65,399,215,3 383,0,435,213,3 446,78,468,156,3 464,96,483,156,3 497,107,515,153,3 544,0,719,469,3 688,0,925,530,3 884,0,961,128,3 958,0,1023,316,3 976,0,1023,412,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\8bf43a7c149fb31a.jpg 437,376,517,481,3 549,394,681,478,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\9290652059b9163b.jpg 785,271,842,404,3 102,61,153,128,3 152,301,221,418,3 160,70,233,161,3 240,321,290,411,3 281,333,314,418,3 314,312,377,414,3 448,339,504,422,3 610,269,636,345,3 652,278,688,399,3 714,276,743,373,3 734,272,766,406,3 758,288,775,404,3 825,345,846,399,3 957,318,1022,390,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\9348460a30693556.jpg 132,304,476,937,3 0,768,159,871,3 470,768,576,864,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\948d0053486ad29f.jpg 522,325,595,541,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\9859f33babfcc7be.jpg 77,663,348,767,3 110,465,230,521,3 153,472,165,487,3 178,471,192,488,3 192,469,206,494,3 252,479,328,650,3 400,478,459,635,3 478,487,534,636,3 512,492,589,651,3 524,489,565,643,3 570,491,607,521,3 597,579,748,767,3 609,492,650,533,3 653,481,673,521,3 666,481,704,526,3 685,491,716,531,3 694,500,719,529,3 713,501,758,657,3 754,503,796,622,3 775,474,824,614,3 783,620,943,767,3 850,489,866,510,3 857,492,910,631,3 875,478,899,509,3 897,472,920,529,3 924,478,976,589,3 942,625,1017,718,3 944,643,1023,767,3 977,490,1023,651,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\993b168ee9be89be.jpg 104,0,1023,767,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\9a0d18a87b9fd627.jpg 225,164,613,627,3 282,124,424,366,3 522,116,586,287,3 638,121,691,173,3 650,20,853,391,3 839,0,1022,411,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\9a4645750e395484.jpg 155,81,530,729,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\9d8c07bf8055a5d8.jpg 0,437,72,542,3 0,108,200,373,3 779,0,979,322,3 846,0,1022,359,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\9ee70044da9d7196.jpg 32,380,352,601,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\a099cc656bdd10db.jpg 258,156,602,903,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\a7b2cdc57354d048.jpg 26,364,51,401,3 145,348,230,545,3 238,344,272,375,3 292,365,334,512,3 316,330,348,361,3 430,339,465,422,3 524,335,556,378,3 812,336,858,385,3 948,355,1008,495,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\a97fd2fd55fafa89.jpg 430,319,483,479,3 188,322,305,594,3 287,331,378,614,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\afd15f804c7aaad0.jpg 17,269,54,423,3 143,263,184,360,3 177,270,193,344,3 199,264,220,353,3 216,268,233,286,3 227,274,241,366,3 247,272,273,349,3 291,266,311,343,3 309,268,328,334,3 690,261,717,286,3 747,269,767,359,3 775,271,796,371,3 800,258,840,382,3 847,289,867,414,3 848,261,873,375,3 864,291,894,421,3 881,273,920,411,3 896,296,951,447,3 935,264,984,303,3 986,264,1020,371,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\b00cb3d5c05abd96.jpg 166,13,382,354,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\b1bb6656545b4225.jpg 122,234,218,433,3 0,122,1023,446,3 258,15,341,146,3 391,378,487,471,3 465,370,605,473,3 688,146,830,383,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\b2e1b17cb91fe380.jpg 648,274,833,586,3 48,306,300,572,3 207,257,355,563,3 404,210,533,556,3 468,250,608,571,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\b690b157762973fc.jpg 87,0,286,615,3 249,0,386,604,3 764,38,968,326,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\b9c8eef6fcd7f76b.jpg 276,261,427,637,3 637,57,1023,682,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\bb61af383ac954ff.jpg 295,101,759,659,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\bca1268b8333b549.jpg 171,316,404,619,3 352,412,528,710,3 387,444,582,828,3 651,0,1022,1022,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\bf7ac9fa37b2054b.jpg 555,60,906,440,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\c03d2bd2a292a30d.jpg 348,284,735,583,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\c041e33e9e9c41e4.jpg 0,500,48,544,3 49,574,107,670,3 82,196,103,232,3 96,532,131,615,3 97,190,110,217,3 132,182,162,222,3 179,589,208,645,3 268,197,287,254,3 302,448,338,539,3 317,398,350,486,3 322,196,336,241,3 364,569,407,645,3 375,279,418,345,3 384,402,432,485,3 419,186,438,227,3 419,437,448,487,3 427,256,447,317,3 437,317,451,382,3 438,560,480,623,3 469,170,484,224,3 471,270,502,334,3 493,396,535,481,3 497,242,512,277,3 498,167,517,208,3 514,261,538,296,3 520,236,539,275,3 528,430,563,524,3 542,170,560,213,3 542,252,561,296,3 589,185,613,221,3 593,249,608,287,3 603,259,631,325,3 647,190,669,224,3 652,265,691,325,3 653,250,673,306,3 709,268,730,330,3 716,209,744,241,3 744,455,799,535,3 768,208,788,247,3 808,520,846,594,3 832,354,844,379,3 833,218,865,262,3 835,361,854,397,3 838,436,868,498,3 862,510,892,578,3 867,417,890,467,3 905,393,920,437,3 951,505,988,585,3 1006,350,1023,393,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\c2af56724b9e4b75.jpg 259,94,1023,768,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\c6a43d19d9f81dc5.jpg 22,6,144,176,3 247,354,696,907,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\c8794747aba5ce0b.jpg 359,26,377,54,3 376,31,392,55,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\c8b5217f901402b4.jpg 217,529,435,910,3 556,436,682,618,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\cee5744a8d7d5420.jpg 387,136,745,680,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\d1d7e53f82607d4b.jpg 17,115,483,622,3 492,138,949,639,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\d1fad68efed530f4.jpg 32,92,419,636,3 156,165,653,969,3 305,145,684,1022,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\d290a865eef96062.jpg 0,750,313,897,3 547,757,753,896,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Person\d477ef6b5102fd37.jpg 0,318,1023,710,3 452,321,497,415,3
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\0027f4b3758a5514.jpg 240,168,766,326,4 483,170,608,312,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\00714e843dcac5e3.jpg 841,465,982,625,4 572,46,995,557,4 741,73,968,311,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\00aaa36c54b136e1.jpg 144,97,828,590,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\00ad0955e028c335.jpg 0,28,972,767,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\00bd79b6c5469eeb.jpg 94,592,330,803,4 95,261,746,824,4 317,156,477,381,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\00cad1b6c284fa55.jpg 45,0,1023,767,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\00ed460d11bdfb16.jpg 170,155,923,552,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\00fec0cff629d4a7.jpg 444,589,728,750,4 283,168,513,332,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\01a3ece9b4513cd7.jpg 513,351,688,538,4 124,212,699,797,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\01c676ce2be070fa.jpg 816,0,1022,210,4 856,1,960,78,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\01ddedf26d3a6ef8.jpg 356,660,649,985,4 404,388,712,675,4 644,660,923,1015,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\01e0c5a9e96c3de4.jpg 477,478,675,647,4 0,240,682,949,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\02a2423d489cdae0.jpg 30,96,997,768,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\0358c82502fbce17.jpg 124,309,382,455,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\0428b02275171e04.jpg 347,171,1022,1022,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\0439b8c68b74d3b9.jpg 191,112,773,598,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\046dcf05c2acaee3.jpg 14,43,1007,1011,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\04a6e75b4ff03e73.jpg 60,292,241,429,4 70,51,946,476,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\04c9d9b83bc08883.jpg 134,70,1022,1022,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\0604d2eee8099621.jpg 3,446,522,766,4 0,0,1022,767,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\0696182780890d61.jpg 16,0,768,252,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\07dea8c0ba65e6c8.jpg 494,208,883,572,4 0,0,903,1022,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\08ac5b032ce994f0.jpg 561,158,762,324,4 0,2,1023,656,4 26,8,173,163,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\09d7aa1c47c95c44.jpg 188,307,405,522,4 170,515,484,896,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\09f6573a2b20a47e.jpg 94,84,988,661,4 660,491,791,579,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\0cd7753a225cb98c.jpg 325,306,484,476,4 230,209,414,340,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\0d270b925be70197.jpg 344,251,890,682,4 497,447,580,542,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\0ed44d5ee6e5a5fa.jpg 596,172,751,325,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\0eeb6fd6e2da317f.jpg 684,608,897,743,4 0,0,1022,767,4 238,0,320,42,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\0ef4d1ccce0830c0.jpg 414,281,622,505,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\101535a468bda34b.jpg 0,0,1022,992,4 14,572,555,996,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\10baa4ac299ff6cb.jpg 99,344,222,489,4 98,16,904,675,4 145,21,321,224,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\112da036399ead73.jpg 81,115,833,731,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\12ed0165311baa4d.jpg 1,306,337,682,4 730,115,1018,510,4 0,0,1022,683,4 364,412,812,683,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\13726ff5c9fafa2a.jpg 1,654,647,1011,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\144a7ff3f685a212.jpg 0,23,1023,627,4 441,176,1023,631,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\1793b0afe8db81b9.jpg 368,334,828,654,4 482,500,830,656,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\1803c084fd7f5bf6.jpg 0,699,348,1022,4 52,161,886,891,4 350,824,710,1022,4 670,569,1022,1022,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\199b27506a330fce.jpg 529,110,689,276,4 643,188,856,329,4 814,305,1022,491,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\1bd15490f7867026.jpg 117,678,368,861,4 0,608,629,1022,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\1e8623afd0d38863.jpg 727,506,834,613,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\2101728138b86237.jpg 679,203,770,276,4 0,408,172,575,4 302,164,860,517,4 734,331,858,442,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\227a801c249f5676.jpg 76,297,547,599,4 125,619,709,929,4 341,67,695,336,4 526,239,926,641,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\23230743d0474356.jpg 0,387,170,566,4 0,199,897,679,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\24cf4306ce9b39dc.jpg 297,302,391,391,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\263d0058672a32f9.jpg 243,349,412,457,4 145,158,1022,651,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\265861b7f7183ca3.jpg 532,448,714,578,4 89,230,1021,929,4 691,232,852,478,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\269c11a8c4bb14ab.jpg 541,259,765,487,4 0,10,826,684,4 430,363,519,469,4 582,0,1022,285,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\26bacbaef720d698.jpg 257,324,575,808,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\2ad193dad898134f.jpg 354,129,995,541,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\2b55dbcdfac2aef8.jpg 479,238,698,417,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\2c793108e0da814b.jpg 467,274,561,361,4 65,176,861,631,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\2d9bfcc3984f62a6.jpg 91,381,267,546,4 35,121,844,593,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\30fcf7deb669f7b9.jpg 427,0,1023,542,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\317b854e56c2c8c1.jpg 707,867,835,998,4 0,184,939,1022,4 393,452,502,574,4 435,0,1022,353,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\3188bd31e98aeb99.jpg 0,124,604,879,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\3242f97c7ab2673f.jpg 0,332,167,500,4 182,229,331,368,4 218,334,464,529,4 442,46,707,124,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\33842159011fc61d.jpg 66,152,354,368,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\36240f57f92afebf.jpg 529,148,704,290,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\36787d4be137d23f.jpg 62,20,955,739,4 732,324,953,590,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\38ac713a6fec42a3.jpg 227,282,628,604,4 366,179,854,476,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\3cbcf917d8e86302.jpg 327,600,492,727,4 110,471,485,721,4 131,471,320,584,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\4226f2c52d3dbad0.jpg 313,374,535,525,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\430b66cea3815884.jpg 150,638,419,885,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\436f14eaa392f339.jpg 165,95,481,355,4 359,221,728,557,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\43b12629f9c0b376.jpg 112,465,855,767,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\44a093c4863435c4.jpg 0,1,1023,767,4 62,256,644,589,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\46d195cc0924cef6.jpg 84,184,816,885,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\4748d9b6faa40326.jpg 107,555,472,967,4 186,366,541,652,4 403,280,644,650,4 468,547,767,989,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\48e98dfcf5c2081f.jpg 314,434,450,539,4 160,639,374,767,4 172,389,305,518,4 309,146,444,210,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\491feaee6eff739a.jpg 145,584,421,736,4 0,226,767,1005,4 106,773,346,1004,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\49921aa8fba3e179.jpg 0,389,288,681,4 504,297,917,659,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\4aac8e371dd56f25.jpg 76,30,508,535,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\4b09abe47aca32ba.jpg 673,428,839,588,4 16,5,1018,760,4 100,205,293,361,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\4b43e406f1a3fcfe.jpg 606,96,780,220,4 0,0,1023,678,4 438,278,599,404,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\4d4ba7ca952215b0.jpg 0,74,1023,658,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\5186bca9106be465.jpg 28,0,537,243,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\53876751f61545dd.jpg 349,272,522,415,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\53e8e8272e13f320.jpg 0,535,672,1022,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\56d6d9cf787079da.jpg 237,439,449,605,4 283,312,502,477,4 470,401,618,548,4 512,517,682,716,4 599,291,682,464,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\5acee99e766edb51.jpg 284,322,556,583,4 0,0,1023,767,4 195,91,464,354,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\5de18fac9279d10b.jpg 245,56,408,184,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\5e291296e12fb727.jpg 7,59,154,373,4 0,0,641,730,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\5f20298e9904e2f2.jpg 392,747,522,874,4 0,55,766,892,4 561,105,649,311,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\5f45f58f3fde12c9.jpg 141,149,298,423,4 240,14,510,159,4 259,396,523,558,4 327,160,538,415,4 502,80,707,298,4 527,328,748,636,4 678,239,816,462,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\64efb0d5de58f8ab.jpg 849,264,936,352,4 81,0,1023,695,4 812,126,901,208,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\6820afb1ccaf7975.jpg 604,158,933,481,4 0,224,368,512,4 344,122,647,497,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\6825c3eca7eb93e6.jpg 8,216,610,821,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\689fa0c914870cc1.jpg 285,435,432,528,4 508,424,560,463,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\705729fde657c881.jpg 131,280,919,552,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\71ed2ec3797adca6.jpg 441,600,702,843,4 426,148,1022,960,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\76157e2b65fa0d1f.jpg 279,506,579,680,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\7aae624957930407.jpg 459,0,1022,551,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\7ed83b5376b03631.jpg 135,473,467,772,4 229,524,323,623,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\828f3e73020d634a.jpg 0,858,101,1001,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\864a4f8139fa9f0d.jpg 310,244,423,356,4 193,0,825,399,4 252,0,483,243,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\893e64a106f131e9.jpg 501,228,851,449,4 0,0,1022,946,4 296,164,518,417,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\8ae60f026960643f.jpg 40,913,245,1021,4 48,94,1021,691,4 215,808,765,1021,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\8babb7a0005de40c.jpg 363,654,588,883,4 0,353,238,599,4 0,0,322,280,4 0,0,767,1022,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\8dec4b76a4eccf1c.jpg 0,112,459,731,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\948849ea8b1cb5fb.jpg 111,95,834,704,4 476,186,616,384,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\95fec9692e44cc42.jpg 558,387,778,640,4 305,388,586,573,4 368,298,588,408,4 552,283,778,416,4 746,297,943,524,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\97d75ff09c792163.jpg 448,228,670,427,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\98be840698610c9f.jpg 5,6,1021,643,4 409,6,509,57,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\9f2f7a56d55433fd.jpg 522,0,776,168,4 0,0,974,767,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\a06cffc452911355.jpg 811,272,1020,458,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\a183b9651ef97df9.jpg 528,700,668,868,4 143,467,672,997,4 337,503,476,653,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\aa106ed00014b3bf.jpg 189,264,856,599,4 492,86,1023,435,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\aa7860a5a4282327.jpg 19,183,953,598,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\ab30474f4baee335.jpg 306,599,573,836,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\b35d44ba2313c89c.jpg 396,6,538,124,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\bb2396efbdce3f80.jpg 680,490,784,636,4 682,356,869,507,4 780,498,997,703,4 903,373,1022,520,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\bbf8f1b2ad016524.jpg 601,263,820,576,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\bd6f057fc1f13c34.jpg 360,689,651,853,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\c6a2d53f9c2e4095.jpg 277,386,794,839,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\c9ccb2cbb646b608.jpg 110,473,243,605,4 193,280,296,498,4 254,319,372,555,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\cb748cd5026be3aa.jpg 484,96,681,445,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\cdb7aecd1a71ccc4.jpg 441,253,572,380,4 307,249,729,387,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\cfc22ce0553d0340.jpg 528,143,711,297,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Potato\d432dec5d8e9bc8b.jpg 0,190,858,541,4
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\0022d08b808c7af6.jpg 0,484,10,506,5 0,611,11,632,5 0,531,20,576,5 0,499,33,550,5 0,575,36,620,5 0,485,115,644,5 5,539,37,586,5 28,526,72,570,5 31,585,52,609,5 70,533,94,575,5 92,555,115,572,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\0084b263c77b57e6.jpg 411,6,628,283,5 418,184,647,478,5 571,367,779,627,5 609,98,809,369,5 734,267,908,508,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\00c2621d95fd4ce8.jpg 40,353,411,572,5 70,455,124,490,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\01531acf68805e34.jpg 716,311,824,437,5 736,412,856,526,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\02ba7fc900dfd57e.jpg 545,75,781,284,5 691,158,945,427,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\02d3515c964078db.jpg 102,11,247,180,5 115,174,267,319,5 225,41,279,176,5 230,119,375,272,5 245,0,320,25,5 298,21,419,130,5 343,378,443,504,5 351,145,464,275,5 400,74,551,225,5 400,481,566,645,5 519,30,666,183,5 519,148,691,340,5 522,441,704,617,5 566,384,704,477,5 664,235,856,398,5 789,189,958,362,5 910,100,1023,284,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\04ccc68d1f07de2f.jpg 147,379,236,470,5 487,502,631,625,5 803,308,886,421,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\059c6efa8d9689bd.jpg 85,515,191,684,5 94,362,176,524,5 135,426,281,613,5 162,229,353,426,5 175,612,339,765,5 266,588,446,716,5 328,119,515,245,5 503,522,720,737,5 513,132,584,260,5 532,373,781,624,5 564,58,773,261,5 672,249,852,431,5 721,113,989,379,5 765,419,838,572,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\06f24a2af5469e3d.jpg 0,0,766,766,5 624,673,686,766,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\0737473115d3ad1a.jpg 319,289,498,470,5 0,0,1022,1022,5 523,391,737,595,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\07424fe252d5b31e.jpg 205,145,813,804,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\077405934f5213f7.jpg 265,570,1023,980,5 710,763,790,837,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\07c38090090a06b5.jpg 180,228,427,460,5 19,20,1023,681,5 797,235,1023,477,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\08703eb4832cbd6e.jpg 69,478,229,553,5 170,634,385,753,5 257,740,273,754,5 304,732,327,751,5 344,402,632,543,5 538,336,597,372,5 650,415,727,448,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\0876fe9b9df3fc6e.jpg 0,91,488,645,5 293,190,517,603,5 408,80,871,647,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\0b5bed38540a45ea.jpg 0,11,1022,1022,5 687,366,866,540,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\0d737b02c504fcc7.jpg 384,444,607,659,5 0,704,139,767,5 0,125,1023,734,5 540,0,1023,341,5 559,341,764,494,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\0e9183a707088a5f.jpg 292,27,535,280,5 0,0,1023,767,5 471,384,778,674,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\0f812091fad861f6.jpg 437,206,904,727,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\0fa9f01f4da05d7d.jpg 93,186,339,337,5 0,0,1023,764,5 436,555,736,767,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\146bcc8831291c87.jpg 294,222,723,793,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\1692e6d1a1d3de3a.jpg 427,314,658,579,5 270,0,599,357,5 495,527,803,724,5 618,116,816,466,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\16d8cf82a860d8bf.jpg 148,523,581,981,5 0,0,766,801,5 673,296,766,469,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\16fb769982c431fa.jpg 154,436,442,647,5 155,267,374,435,5 177,631,448,888,5 232,84,448,272,5 291,0,454,125,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\19c5e5d640c5aba0.jpg 618,394,851,565,5 0,0,1023,682,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\1b9fdb87f4b1582f.jpg 248,275,480,482,5 88,51,182,128,5 111,102,271,229,5 251,98,367,196,5 350,128,497,255,5 464,263,649,459,5 472,19,578,156,5 519,81,632,206,5 534,450,747,692,5 615,191,767,289,5 625,131,763,205,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\1c3e99f71f4cc3d9.jpg 31,734,118,823,5 0,0,776,1022,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\203162e622e1d4ae.jpg 431,284,685,470,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\206c764f0015683c.jpg 131,199,672,519,5 512,257,562,297,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\20cdb9858b0f96f6.jpg 87,33,532,445,5 451,285,875,650,5 599,149,954,412,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\21edaf7a845e0f60.jpg 232,54,797,673,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\22e2612519a663c1.jpg 737,228,835,306,5 717,61,798,107,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\23b6f9403205aa58.jpg 62,17,455,230,5 36,153,218,338,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\2554ed142bc25376.jpg 741,319,844,426,5 327,156,378,186,5 367,143,469,231,5 396,121,487,198,5 431,213,513,283,5 472,132,524,184,5 496,168,571,252,5 507,264,592,347,5 524,125,561,158,5 558,96,647,168,5 561,131,671,238,5 592,297,638,333,5 622,211,723,294,5 634,272,751,352,5 645,74,709,115,5 650,351,744,454,5 652,90,741,161,5 663,156,733,214,5 713,201,832,291,5 725,116,813,200,5 744,234,856,331,5 750,420,855,512,5 781,158,863,209,5 812,444,945,559,5 817,173,902,231,5 827,367,944,461,5 828,298,933,382,5 844,231,937,315,5 898,197,957,239,5 912,287,1016,377,5 914,226,990,305,5 918,532,1023,653,5 938,388,1023,500,5 960,218,1023,288,5 979,307,1023,399,5 1000,504,1023,574,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\266e14a7284ae87e.jpg 43,237,168,352,5 736,245,862,372,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\269e3897bb201296.jpg 515,536,589,617,5 209,512,248,547,5 595,560,621,596,5 686,227,721,256,5 693,213,721,235,5 711,163,744,203,5 721,194,757,235,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\27fb08d64da31598.jpg 404,31,497,125,5 821,486,901,574,5 2,0,1023,682,5 373,278,450,386,5 797,0,912,87,5 881,42,935,131,5 897,0,979,24,5 898,92,1023,240,5 917,21,1023,110,5 924,1,1023,59,5 979,235,1023,383,5 1002,0,1023,23,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\28d49ae44e44cde5.jpg 0,0,1023,767,5 390,427,741,767,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\2a15fddc00de0f63.jpg 834,114,878,157,5 960,0,994,14,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\2a9d4e8bbe661cd6.jpg 346,659,665,988,5 25,35,1008,863,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\2b2fe46dcce824a3.jpg 36,542,232,780,5 64,757,241,892,5 184,381,345,686,5 185,375,566,853,5 340,228,657,590,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\2bcae7cc4a4d5da4.jpg 56,16,956,750,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\302f895980f10a16.jpg 336,272,474,397,5 443,375,568,470,5 461,260,600,415,5 504,433,584,501,5 822,190,1023,381,5 823,366,924,427,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\306131d822cd13e7.jpg 371,260,501,370,5 0,108,1023,669,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\31730d07ae9fb798.jpg 361,337,521,492,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\33842159011fc61d.jpg 917,442,984,499,5 938,369,1011,467,5 944,490,1023,565,5 984,447,1023,513,5 1007,368,1023,445,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\341273fd9687603d.jpg 718,512,853,650,5 0,46,1023,767,5 204,0,393,94,5 430,0,830,75,5 765,368,894,519,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\35e3b8de97ccb13d.jpg 41,0,960,682,5 117,486,464,682,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\37329c0e03ff32c8.jpg 23,357,210,633,5 240,465,749,737,5 437,218,812,391,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\39d8aada1524942f.jpg 94,0,254,103,5 305,0,482,156,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\3b17ace311d759ca.jpg 0,282,184,457,5 16,87,182,254,5 117,436,373,718,5 244,0,424,112,5 284,150,482,351,5 445,314,667,510,5 475,558,703,767,5 496,0,647,113,5 819,512,1023,762,5 916,208,1023,411,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\3bd0d779a7bec5b9.jpg 480,413,606,537,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\3cb4432c197b0e23.jpg 247,48,401,200,5 280,0,416,113,5 385,51,532,209,5 396,0,540,109,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\3e8133a9ad12d6d6.jpg 363,182,567,382,5 433,38,621,208,5 538,145,720,351,5 604,322,816,547,5 757,122,917,269,5 807,0,982,144,5 919,117,1023,296,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\3e8205dd44304f0e.jpg 364,293,453,371,5 357,89,440,176,5 437,124,485,178,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\3fe215706d3a4e96.jpg 387,34,826,410,5 156,297,477,524,5 302,371,734,655,5 645,342,981,570,5 760,58,1023,295,5 902,199,1023,481,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\40537bcc3372fd87.jpg 260,303,487,522,5 471,205,666,479,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\406e7fe6501ed1f3.jpg 433,700,606,877,5 659,669,826,859,5 2,7,1009,988,5 427,413,673,586,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\425b3027af519469.jpg 678,525,808,676,5 39,363,230,474,5 48,495,156,630,5 141,419,393,603,5 204,55,327,236,5 277,208,394,367,5 331,23,474,107,5 352,337,516,522,5 397,91,472,150,5 407,542,557,680,5 430,625,647,705,5 446,307,520,373,5 468,40,637,186,5 588,0,780,121,5 609,293,798,427,5 718,172,865,312,5 865,463,956,584,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\46dad003b2011af0.jpg 258,348,413,508,5 0,0,1022,679,5 632,220,806,366,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\48177dc741c4ebb7.jpg 387,771,564,936,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\4c14c7b08f5a631d.jpg 273,189,433,339,5 418,218,596,389,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\4c4018600f2d136a.jpg 145,192,412,452,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\524a7c9ed1d127cf.jpg 723,27,1013,281,5 412,63,692,331,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\5545d92c14ddb875.jpg 380,281,685,475,5 728,365,859,471,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\5549dbd6e32b8691.jpg 214,206,323,316,5 30,214,117,312,5 33,96,130,187,5 36,435,482,670,5 83,163,158,242,5 96,226,231,347,5 112,120,180,168,5 125,53,209,121,5 139,16,220,66,5 153,128,263,242,5 199,83,280,159,5 209,19,325,107,5 252,117,343,212,5 304,33,502,281,5 519,59,1008,279,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\57372c1d6ecf9d08.jpg 600,177,693,275,5 727,251,817,339,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\5849d66a91ab3f2a.jpg 449,388,668,617,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\596d8b8c179a8738.jpg 203,282,311,389,5 326,426,437,542,5 414,369,504,481,5 493,362,620,481,5 559,262,675,381,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\5b0fcab49b2f51d3.jpg 305,759,485,920,5 0,480,718,1023,5 176,315,501,471,5 197,124,442,301,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\5f82f5e3e1235501.jpg 648,285,762,392,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\5fb61b85bf119198.jpg 327,270,410,350,5 122,241,212,325,5 197,219,278,285,5 232,104,334,184,5 260,231,341,306,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\613b24234ea1f81c.jpg 492,257,927,726,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\64a7da22f0cd5697.jpg 647,323,852,427,5 647,358,884,583,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\66ff6b4834178756.jpg 633,478,779,632,5 245,170,363,258,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\67f6850efb15eb47.jpg 691,134,870,328,5 519,473,771,620,5 583,378,672,485,5 652,303,851,507,5 792,446,1023,639,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\692f81c800660897.jpg 317,30,824,609,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\6ff465d6eed9e609.jpg 0,0,1023,767,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\729fff31d33044b6.jpg 97,435,282,622,5 101,372,260,487,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\77029e20f70c5a58.jpg 519,206,629,335,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\7e67d3b178dba316.jpg 137,44,474,292,5 539,217,810,484,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\7f3793be6bd04ac3.jpg 69,117,109,161,5 97,103,124,122,5 172,502,224,547,5 174,542,228,588,5 232,549,281,593,5 236,13,285,65,5 238,354,296,407,5 252,293,305,341,5 264,94,306,137,5 318,650,376,705,5 393,549,460,612,5 404,673,465,735,5 410,24,461,67,5 429,618,492,679,5 450,531,511,592,5 454,595,503,629,5 471,657,540,716,5 570,113,614,157,5 657,136,698,182,5 689,325,734,376,5 720,494,778,555,5 741,293,773,348,5 754,330,792,378,5 768,291,824,338,5 789,336,848,401,5 802,504,835,552,5 802,452,864,512,5 811,588,868,641,5 822,285,873,338,5 873,504,928,568,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\8230b1ab5e448763.jpg 280,533,522,746,5 14,170,1023,784,5 640,224,1023,627,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\829dc9a426dd2fbb.jpg 277,507,533,705,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\8574f56e84becb44.jpg 124,11,892,642,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\870f0b0bd1de9ee8.jpg 418,311,706,655,5 295,390,480,588,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\8dec4b76a4eccf1c.jpg 708,512,1022,935,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\8e412fe859903bfa.jpg 677,432,939,586,5 768,330,968,442,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\8f2721f77ad5d517.jpg 160,282,648,551,5 671,235,1023,570,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\951cb25fa8b93af4.jpg 0,581,586,1023,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\9607cf67bc23b076.jpg 670,165,880,435,5 14,173,154,495,5 257,581,659,747,5 265,7,560,110,5 430,439,757,643,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\98baa614cf956f2c.jpg 138,238,487,761,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\993b8e94976f8590.jpg 0,280,347,682,5 0,0,403,272,5 339,0,923,608,5 739,383,1022,682,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\9bf72201c6351f63.jpg 220,313,465,522,5 442,292,662,458,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\a0147be54b47a12d.jpg 606,272,647,319,5 617,235,652,276,5 638,261,681,311,5 644,221,690,264,5 731,459,750,486,5 748,449,798,488,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\a2eb23c27d787042.jpg 157,8,853,674,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\a676438a0b3d5782.jpg 615,251,851,504,5 0,2,981,677,5 503,490,759,677,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\a91d0ac2cd30f89a.jpg 46,207,734,684,5 179,208,273,264,5 446,135,520,201,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\ab488cef1b13a96a.jpg 324,322,447,380,5 324,249,474,350,5 424,194,519,280,5 469,281,575,367,5 527,190,619,249,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\ae663560eab8e325.jpg 161,565,525,880,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\b122bb9ee9bbaf18.jpg 677,231,785,331,5 679,316,805,444,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\b2eeaf180fd70d69.jpg 488,205,726,443,5 0,0,1023,682,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\b49128905163dee6.jpg 445,680,675,913,5 699,530,948,783,5 918,866,990,992,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\b662a2b0f386f4ef.jpg 547,229,727,418,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\b81d33505941c503.jpg 444,212,590,325,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\b8209b52da346b58.jpg 289,509,488,683,5 86,516,281,682,5 151,376,316,504,5 190,302,334,394,5 219,229,345,317,5 260,188,378,259,5 288,140,390,198,5 307,403,477,519,5 314,85,359,132,5 325,116,380,146,5 329,329,477,419,5 334,259,451,350,5 370,188,487,272,5 373,87,463,132,5 387,106,489,168,5 392,158,481,207,5 464,67,540,122,5 472,288,609,397,5 477,389,640,509,5 478,230,584,321,5 481,140,576,203,5 485,516,673,673,5 489,95,592,158,5 498,188,590,238,5 554,51,636,113,5 586,125,694,194,5 587,87,679,141,5 591,230,722,314,5 599,166,712,238,5 609,292,760,394,5 637,39,726,104,5 665,366,813,497,5 673,500,871,668,5 691,104,787,177,5 693,67,773,126,5 715,156,824,222,5 718,211,845,295,5 757,275,883,378,5 813,357,989,492,5 867,494,1023,645,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\b876d59ba12ccabc.jpg 0,17,1023,694,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\ba4c3e4ad4f35ec5.jpg 323,467,528,745,5 385,156,644,384,5 438,272,766,564,5 473,521,766,923,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\bbd963f153bfe5d6.jpg 586,346,701,439,5 215,273,348,359,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\bd776b15ba7fcfbe.jpg 421,318,758,702,5 568,245,906,590,5 651,182,956,431,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\befce6d624720594.jpg 650,331,756,421,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\c07b81814527cdfa.jpg 572,497,701,600,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\c126a8bbca1977fe.jpg 552,18,853,280,5 270,0,547,253,5 328,523,609,679,5 413,209,680,494,5 540,475,798,679,5 689,228,949,510,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\c5b74089761c2143.jpg 0,235,144,522,5 0,32,170,248,5 0,543,177,682,5 0,0,190,49,5 123,136,394,406,5 137,406,400,666,5 158,0,413,148,5 348,272,641,565,5 353,580,615,682,5 388,26,645,271,5 418,0,642,64,5 586,117,862,412,5 590,445,872,682,5 632,0,929,177,5 839,256,1023,543,5 840,554,1023,682,5 892,18,1023,261,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\cedc28898034e764.jpg 443,390,977,616,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\d272dacff63fca25.jpg 22,0,122,138,5 104,284,401,519,5 218,0,382,187,5 328,34,363,69,5 527,153,573,220,5 567,193,606,232,5 614,207,645,240,5 666,231,699,261,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\d325693b124aaa17.jpg 0,329,682,859,5 10,406,198,499,5 206,308,374,418,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\d41d462793583bd0.jpg 0,390,672,746,5 595,471,912,785,5 893,442,1023,762,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\d555cbfe8e655a95.jpg 132,371,254,494,5 161,301,250,394,5 183,184,291,306,5 227,264,322,362,5 266,320,373,424,5 341,197,455,269,5
+I:\Object_detection\OIDv4_ToolKit\OIDv4_ToolKit\OID\Dataset\train\Tomato\d6e255c84be01f80.jpg 610,876,742,995,5 517,925,625,1022,5 732,742,931,925,5
